@@ -1,0 +1,9 @@
+{
+  "employees": [
+    {
+      "name": "Diana",
+      "role": "Role",
+      "image": "~static/headshotA.jpg"
+    }
+  ]
+}
